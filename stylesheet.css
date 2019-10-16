@@ -1,0 +1,25 @@
+.jumbotron {
+  background: #27a967;
+  color: white;
+  text-align: center;
+}
+
+i {
+  color: white;
+}
+
+h3 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+body {
+  background: #212529;
+}
+
+.material-icons.md-48 {
+  font-size: 120px; 
+}
